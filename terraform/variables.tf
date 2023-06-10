@@ -1,6 +1,6 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "RG_terraform"
+  default = "RG-terraform"
 }
 
 variable "application_name" {
